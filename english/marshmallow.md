@@ -5,7 +5,7 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
-Enter [The Forest!] (forest/forest.md).
+Enter [The Forest!](forest/forest.md).
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
@@ -982,13 +982,13 @@ Let it go, let it gooo...
 
 CANT HOLD IT BACK ANY MORE
 
-Do you want to build a [snowman?] (snowman/snowman.md)
+Do you want to build a [snowman](snowman/snowman.md)?
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
 I think I'll try defying gravity. 
 
-Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
+Do you know [Indonesian Culture](https://en.wikipedia.org/wiki/Culture_of_Indonesia)?
 
 [Paint It Black](paint-it-black/PaintItBlack.md)
 
@@ -1082,9 +1082,9 @@ You're reincarnated as a green starfish but wish you were [blue instead.](starfi
 You wake up as Harry Potter ... and are facing Voldemort in a duel? 
 What should you [do](magicaladventure/decision_time/decision_time.md)
 
-My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
+My tea's gone cold I'm wondering [why](stan/stan.md) I got out of bed at all...
 
-[Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+[Click](vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
 
 You decide you want to be a pirate and remember a show called
 [onepiece](onepiece/op.md)
@@ -1136,8 +1136,9 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 
 Learn about Ankesh [here](characters/ankesh.md)
 
-[Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
->>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+[Hold the door](hold_the_door/hodor.md)!
+
+[Spoiler GOT](famous-tv-series/Game-of-thrones/Game-of-thrones.md)
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
@@ -1204,24 +1205,21 @@ My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
 
 Maybe this is a [dream](dream/dream.md)?
 
-Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+Or maybe you love [pugs](https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
-<<<<<<< HEAD
 Have you ever heard any unusual sounds 
 when you're alone? 
 They're not what you think. 
 Get to know them [here](blackAndwhite/blackAndwhite.md)
 
-=======
 Like football or soccer(as many others call it)? Must Watch 
-[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
+[The_Greatest_Battle_Ever](https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
