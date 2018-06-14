@@ -260,9 +260,7 @@ Suddenly, fuzzy memories of a tavern and an exotic woman...
 a house made of candy...
 closets full of umbrellas and leather.
 
-An umbrella (closed) automagically appears in your left hand. You tentatively
-
-[poke the wall](./poke-the-wall/poke-the-wall.md) with it.
+An umbrella (closed) automagically appears in your left hand. You tentatively [poke the wall](./poke-the-wall/poke-the-wall.md) with it.
 
 [You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
@@ -747,11 +745,11 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Screaming goat is screaming](https://youtu.be/kh6c0SOfkH4)
 
-[Play on miniclip!] (papa-louie/papa-louie.md)
+[Play on miniclip](papa-louie/papa-louie.md)!
 
-[Visit Sturgis 2015!](sturgis2015/sturgis.md)
+[Visit Sturgis 2015](sturgis2015/sturgis.md)!
 
-[Attack marshmallow pikachu!](pikachu/pokeball.md)
+[Attack marshmallow pikachu](pikachu/pokeball.md)!
 
 "I have problems with my sleep," you realise. "I'm going to [move to New York](new-york/new-york.md)."
 
@@ -775,9 +773,9 @@ Click [here](young/young.md) to listen to music.
 
 [Decide to browse Reddit instead](https://www.reddit.com/)
 
-[It's time to take a vacation] (licked-cat/vacation.md)
+[It's time to take a vacation](licked-cat/vacation.md)
 
-And then you realize that Burning Man is over, so no real vacations :(
+And then you realize that Burning Man is over, so there is no real vacations :(
 
 [present-tense](present-tense/present-tense.md)
 
@@ -963,16 +961,15 @@ The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-
 
 The understanding of git [go here](Booyah/booyah.md)
 
-[Link to Git Official Website] (git/git.md)
+[Link to Git Official Website](git/git.md)
 
-[link to google website] (kumar/kumar.md)
+[link to google website](kumar/kumar.md)
 
-Do you want to know [Git disadvantage?] (git_disadvantage/git_disadvantage.md) 
+Do you want to know [Git disadvantage](git_disadvantage/git_disadvantage.md)? 
 
-Hi i got this one for udacity team.
+Hi, I got this one for udacity team.
 
-As the sand encompassed her toes and
-the ocean-spray breezed through her nose
+As the sand encompassed her toes and the ocean-spray breezed through her nose
 
 she froze...
 
@@ -980,7 +977,7 @@ But the cold never bothered me anyway.
 
 Let it go, let it gooo...
 
-CANT HOLD IT BACK ANY MORE
+CAN'T HOLD IT BACK ANY MORE
 
 Do you want to build a [snowman](snowman/snowman.md)?
 
@@ -1040,7 +1037,7 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 
 [Do nothing.](nothing/do-nothing.md)
 
-[Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
+[Rent a hydroplaning dog sled to get you to the other side of the world](dog-sled/dogsled.md)
 
 Toasted [marshmallow](toasted/smores_pie.md)
 
@@ -1227,14 +1224,16 @@ Read it [here](alone/alone.md)
 Information on some famous tv series
 [click here](famous-tv-series/famous-tv-series.md)
 
-I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+I have at last found a way to heaven. Do you want to go [there](00-PortBlair's-Emerald-blue/Port-Blair-Voyage.md)?
 
 Why are you reading this line? smile and move on.
 
 Smile and move on gingerly.
 
-What is your [passion?](passion/passion.md)
+What is your [passion](passion/passion.md)?
 
--
+- Playing Video Games
+- Reading Books
+- Learning new things for Android Development
 
 searching for [good](tvf-play/watch.md) content.
